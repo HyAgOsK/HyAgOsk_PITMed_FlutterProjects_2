@@ -1,4 +1,7 @@
-# Hipertensao
+# Calculadora de nível de  pressão arterial
+### Normal, elevada, estágio 1 e estágio 2.
+### Link referência: 
+- [Artigo sobre pressão arterial](https://www.sbh.org.br/wp-content/uploads/2022/05/Revista-Hipertensao-Vol-24-Num-1-Artigo-3-Comentarios-sobre-a-diretriz-para-a-prevencao-deteccao-avaliacao.pdf)
 
 A new Flutter project created with [FlutLab](https://flutlab.io)
 
